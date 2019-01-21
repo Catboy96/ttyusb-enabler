@@ -1,0 +1,11 @@
+echo "Current State:"
+ls -la /dev/ttyUSB*
+echo ""
+echo "Waiting for verification..."
+sudo chmod 666 /dev/ttyUSB*
+echo ""
+echo "Current State:"
+ls -la /dev/ttyUSB*
+echo ""
+echo "USB serial devices are now accessible."
+read -n1 -r -p "Press any key to continue..."
