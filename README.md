@@ -1,5 +1,6 @@
 # ttyusb-enabler
-Make ttyUSB accessible for your current account
+Make ttyUSB accessible for your current account  
+[中文説明](https://ralf.ren/2751)
 
 ## Screenshot
 ![](https://raw.githubusercontent.com/Catboy96/ttyusb-enabler/master/screenshot.png)
