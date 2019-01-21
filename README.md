@@ -1,6 +1,9 @@
 # ttyusb-enabler
 Make ttyUSB accessible for your current account
 
+## Screenshot
+![](https://raw.githubusercontent.com/Catboy96/ttyusb-enabler/master/screenshot.png)
+
 ## Introduction
 When you are working on an embedded linux or FPGA project using Vivado, you must change ttyUSB permission to `666` to make it accessible for non-root account.  
 Files included in this repository make a easy way for you to do the thing by clicking a icon.
