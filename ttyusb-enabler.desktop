@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=ttyUSB Enabler
+Comment=Make ttyUSB accessible for your current account
+Exec=/home/[USERNAME]/.local/bin/ttyusb-enabler
+Icon=root-terminal-app
+Terminal=true
+Categories=Utility;Application;
+GenericName[en_US.UTF-8]=Make ttyUSB accessible for your current account
